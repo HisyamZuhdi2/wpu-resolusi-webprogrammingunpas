@@ -1,0 +1,6 @@
+Halo pak, Salam kenal nama saya hisyam dari batam. Setelah saya lulus SMA saya memutuskan untuk tidak kuliah karna saya hanya mengejar cita-cita menjadi web development. saat ini saya sudah mempelajari html, css, javascript, javascript dom dan lanjutan.
+tetapi masih banyak yang saya belum kuasai.
+
+resolusi saya:
+-Menguasai cara penggunaan bootstrap 5
+-Bekerja di Start-up
